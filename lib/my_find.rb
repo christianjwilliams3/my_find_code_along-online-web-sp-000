@@ -11,4 +11,3 @@ yield(collection[i])
   end 
   collection
 end
-end
