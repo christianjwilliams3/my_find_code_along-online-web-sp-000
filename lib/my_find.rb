@@ -2,7 +2,7 @@ require 'pry'
 
 def my_find(collection)
   i = 0 
-  block
+  block_given?
   while i <
 collection.length 
   return
