@@ -6,8 +6,7 @@ collection.length
   return
   collection[i] if 
 yield(collection[i])
-    i = i + 1 
-block_given?    
+    i = i + 1
   end 
   collection
 end
